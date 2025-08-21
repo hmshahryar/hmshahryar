@@ -1,11 +1,12 @@
 👋 Hi, I'm Shahryar
 
-I am a Software Engineer with a strong foundation in programming, data structures, and data science. Passionate about building AI-driven applications, scalable full-stack solutions, and optimized data workflows, I continuously expand my expertise in cutting-edge AI and web technologies.
+Data Science, Machine Learning, Deep Learning, and AI-driven applications are at the core of my work.
+I’m a Software Engineer with a strong foundation in programming, data structures, and data science, passionate about building intelligent systems, scalable full-stack solutions, and optimized data workflows. My journey revolves around leveraging AI and modern web technologies to create impactful solutions.
 
 🚀 Technical Skills
 💻 Programming & Development
 
-Languages: Python, typescript
+Languages: Python, TypeScript
 
 Frameworks & Platforms: FastAPI, Next.js, LangChain, OpenAI SDK
 
@@ -15,7 +16,7 @@ Libraries & Tools: NumPy, Pandas, Matplotlib, Scikit-learn
 
 Frameworks: TensorFlow, PyTorch, Keras
 
-AI Engineering: LangChain, OpenAI SDK, LangGraph (agents & RAG systems)
+AI Engineering: LangChain, OpenAI SDK, LangGraph (Agents & RAG Systems)
 
 🌐 Full-Stack Development
 
@@ -35,7 +36,7 @@ Caching & Storage: Redis, S3/MinIO
 
 🔢 Data Structures & Algorithms
 
-Strong problem-solving, algorithm optimization, and efficient system design
+Strong in problem-solving, algorithm optimization, and efficient system design
 
 🌱 Currently Learning
 
@@ -45,7 +46,7 @@ AI Agents & Automation (LangChain, LangGraph, CrewAI, Zapier integrations)
 
 Cloud Deployment (Docker, AWS/GCP/Azure)
 
-Data Pipeline Optimization for scalable AI apps
+Data Pipeline Optimization for scalable AI applications
 
 💡 What I Bring
 
@@ -53,10 +54,10 @@ Ability to design AI-powered applications end-to-end (Next.js + FastAPI + OpenAI
 
 Strong analytical & problem-solving skills for data-driven decision-making
 
-Experience in building scalable database architectures with Postgres & Vector DBs
+Experience in scalable database architectures with Postgres & Vector DBs
 
 Knowledge of real-time streaming, APIs, and cloud deployment
 
-Passion for collaboration, innovation, and building AI solutions that create impact
+Passion for collaboration, innovation, and impactful AI solutions
 
 ✨ Always open to collaborations, learning opportunities, and innovative projects in AI Engineering, Full-Stack Development, and Data Engineering. 🚀
