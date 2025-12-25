@@ -1,63 +1,66 @@
 👋 Hi, I'm Shahryar
 
-Data Science, Machine Learning, Deep Learning, and AI-driven applications are at the core of my work.
-I’m a Software Engineer with a strong foundation in programming, data structures, and data science, passionate about building intelligent systems, scalable full-stack solutions, and optimized data workflows. My journey revolves around leveraging AI and modern web technologies to create impactful solutions.
+I build scalable data pipelines, AI-powered applications, and intelligent systems. My work focuses on leveraging data science and AI engineering to drive impactful, data-driven solutions.
 
-🚀 Technical Skills
+🚀 Professional Data Science & AI Infrastructure
 💻 Programming & Development
 
 Languages: Python, TypeScript
 
-Frameworks & Platforms: FastAPI, Next.js, LangChain, OpenAI SDK
+Frameworks & Platforms: FastAPI, Next.js, OpenAI SDK
 
-🤖 AI, Machine Learning & Deep Learning
+🛢 Data Science & Data Infrastructure
 
-Libraries & Tools: NumPy, Pandas, Matplotlib, Scikit-learn
+Data Management: PostgreSQL, MySQL, ChromaDB, pgvector
 
-Frameworks: TensorFlow, PyTorch, Keras
+Data Pipelines: ETL workflows, preprocessing, feature engineering, scalable pipelines
 
-AI Engineering: LangChain, OpenAI SDK, LangGraph (Agents & RAG Systems)
+Caching & Storage: Redis, S3 / MinIO
 
-🌐 Full-Stack Development
+Data Analytics & Visualization: NumPy, Pandas, Matplotlib, Seaborn
+
+Data Modeling: Scikit-learn, TensorFlow, PyTorch, Keras
+
+🤖 AI Engineering & Intelligent Systems
+
+AI Platforms:
+
+LangChain: LLM orchestration, RAG systems, conversational AI
+
+LangGraph: Multi-agent orchestration, workflow automation
+
+Deep Agents: Autonomous AI reasoning and decision-making pipelines
+
+Real-Time AI Integration: SSE / WebSockets, AI-powered APIs
+
+🌐 Full-Stack Development for AI Applications
 
 Frontend: Next.js, React, Tailwind CSS
 
 Backend: FastAPI, REST APIs, AI-powered APIs
 
-Integration: SSE/WebSockets for real-time AI streaming
-
-🛢 Database Management
-
-Relational Databases: PostgreSQL, MySQL
-
-Vector Databases: ChromaDB, pgvector
-
-Caching & Storage: Redis, S3/MinIO
-
 🔢 Data Structures & Algorithms
 
-Strong in problem-solving, algorithm optimization, and efficient system design
+Strong problem-solving skills, algorithm optimization, and efficient system design
 
 🌱 Currently Learning
 
 Advanced Deep Learning with TensorFlow & PyTorch
 
-AI Agents & Automation (LangChain, LangGraph, CrewAI, Zapier integrations)
+AI Agents & Automation (LangChain, LangGraph, Deep Agents, CrewAI)
 
-Cloud Deployment (Docker, AWS/GCP/Azure)
+Cloud Deployment & Containerization (Docker, AWS/GCP/Azure)
 
-Data Pipeline Optimization for scalable AI applications
+Optimized Data Pipelines for scalable AI applications
 
-💡 What I Bring
+💡 Core Strengths
 
-Ability to design AI-powered applications end-to-end (Next.js + FastAPI + OpenAI SDK)
+Designing end-to-end data-driven AI solutions
 
-Strong analytical & problem-solving skills for data-driven decision-making
+Building scalable data pipelines and AI infrastructure
 
-Experience in scalable database architectures with Postgres & Vector DBs
+Multi-agent orchestration & RAG systems with LangChain & LangGraph
 
-Knowledge of real-time streaming, APIs, and cloud deployment
+Real-time AI streaming, APIs, and cloud deployment
 
-Passion for collaboration, innovation, and impactful AI solutions
-
-✨ Always open to collaborations, learning opportunities, and innovative projects in AI Engineering, Full-Stack Development, and Data Engineering. 🚀
+Analytical thinking for data-driven decision-making
