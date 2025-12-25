@@ -1,51 +1,57 @@
 👋 Hi, I'm Shahryar
 
-I build scalable data pipelines, AI-powered applications, and intelligent systems. My work focuses on leveraging data science and AI engineering to drive impactful, data-driven solutions.
+I build scalable data pipelines, intelligent systems, and AI-powered applications. My work focuses on data science, machine learning, and AI engineering to deliver impactful, data-driven solutions.
 
-🚀 Professional Data Science & AI Infrastructure
+🚀 Data Science & Data Infrastructure
 💻 Programming & Development
 
 Languages: Python, TypeScript
 
 Frameworks & Platforms: FastAPI, Next.js, OpenAI SDK
 
-🛢 Data Science & Data Infrastructure
+🛢 Data Management & Infrastructure
 
-Data Management: PostgreSQL, MySQL, ChromaDB, pgvector
+Relational Databases: PostgreSQL, MySQL
 
-Data Pipelines: ETL workflows, preprocessing, feature engineering, scalable pipelines
+Vector Databases: ChromaDB, pgvector
 
 Caching & Storage: Redis, S3 / MinIO
 
-Data Analytics & Visualization: NumPy, Pandas, Matplotlib, Seaborn
+📊 Data Processing & Analytics
 
-Data Modeling: Scikit-learn, TensorFlow, PyTorch, Keras
+Data Pipelines: ETL workflows, preprocessing, feature engineering
 
-🤖 AI Engineering & Intelligent Systems
+Data Analysis & Visualization: NumPy, Pandas, Matplotlib, Seaborn
 
-AI Platforms:
+Modeling & Machine Learning: Scikit-learn, TensorFlow, PyTorch, Keras
 
-LangChain: LLM orchestration, RAG systems, conversational AI
+🔢 Algorithms & Problem Solving
 
-LangGraph: Multi-agent orchestration, workflow automation
+Strong foundation in data structures, algorithm optimization, and system design
 
-Deep Agents: Autonomous AI reasoning and decision-making pipelines
-
-Real-Time AI Integration: SSE / WebSockets, AI-powered APIs
-
-🌐 Full-Stack Development for AI Applications
+🌐 Full-Stack & Real-Time Integration
 
 Frontend: Next.js, React, Tailwind CSS
 
 Backend: FastAPI, REST APIs, AI-powered APIs
 
-🔢 Data Structures & Algorithms
+Real-Time Integration: SSE / WebSockets for live AI streaming
 
-Strong problem-solving skills, algorithm optimization, and efficient system design
+🤖 AI Agent Engineering
+
+AI Platforms & Tools:
+
+LangChain: LLM orchestration, RAG systems, conversational AI
+
+LangGraph: Multi-agent orchestration, workflow automation
+
+Deep Agents: Autonomous reasoning, decision-making pipelines
+
+End-to-end design of intelligent, AI-driven applications
 
 🌱 Currently Learning
 
-Advanced Deep Learning with TensorFlow & PyTorch
+Advanced Deep Learning (TensorFlow, PyTorch)
 
 AI Agents & Automation (LangChain, LangGraph, Deep Agents, CrewAI)
 
@@ -55,12 +61,12 @@ Optimized Data Pipelines for scalable AI applications
 
 💡 Core Strengths
 
-Designing end-to-end data-driven AI solutions
+Building end-to-end data-driven AI solutions
 
-Building scalable data pipelines and AI infrastructure
+Scalable data pipelines & infrastructure
 
-Multi-agent orchestration & RAG systems with LangChain & LangGraph
+Multi-agent orchestration & AI workflow automation
 
-Real-time AI streaming, APIs, and cloud deployment
+Real-time AI APIs and cloud deployment
 
-Analytical thinking for data-driven decision-making
+Strong analytical thinking for data-driven decision-making
